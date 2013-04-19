@@ -11,6 +11,7 @@
 *.unity
 *.unity3D
 *.pidb
+*.unitypackage
 
 [Ll]ibrary/
 [Tt]emp/
