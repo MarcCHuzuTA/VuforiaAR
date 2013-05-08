@@ -1,10 +1,10 @@
 =============================================================
-Vuforia AR SDK v2.0.32 
+Vuforia AR SDK v2.0.31 
 Qualcomm Austria Research Center GmbH
 =============================================================
 
 This Readme file contains certain notices of software components
-included with the Vuforia AR SDK v2.0.32  that
+included with the Vuforia AR SDK v2.0.31  that
 QUALCOMM is required to provide you. Notwithstanding anything in the
 notices in this file, your use of these software components together
 with the QUALCOMM Software is subject to the terms of your license from

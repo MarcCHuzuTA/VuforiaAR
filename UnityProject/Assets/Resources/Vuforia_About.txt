@@ -1,0 +1,10 @@
+This sample app illustrates how to use the Vuforia UserDefinedTargets feature. This app doesn’t require a predefined image target in order to view the augmentation.  
+Instead, the user can define the image that they want to use as a target for the augmented 3D teapot.
+
+To use this app:
+1. Point your device at an image such as a poster, magazine page, packaging, etc.
+2. Follow the instructions for capturing an image
+3. See the teapot augmented on top of your image
+
+© 2012-2013 Qualcomm Austria Research Center GmbH.  All rights reserved.
+Subject to agreements at developer.vuforia.com/legal/EULA
